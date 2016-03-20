@@ -1,6 +1,6 @@
 name: Shifting Units
 favicon: null
-layout_spectrum: 0.6019419748336077
+layout_spectrum: 0.74047
 typography_spectrum: 0.9614129683468491
 title: "Ecommerce isn't rocket science, it's just shifting units."
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.3973142041359097
-  lightness: 0.7340460137929767
+  lightness: 0.8125
   saturation: 0.8380021320190281
   rhythmicContrast: 0.29572290764190257
 purpose: []
