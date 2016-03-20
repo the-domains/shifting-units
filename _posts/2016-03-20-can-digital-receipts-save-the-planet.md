@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Digital receipts (receipts that are emailed to the customer instead of printed in store) provide an opportunity for retailers to save paper, and to save on printing costs, which can be significant for retailers with hundreds of stores.'
-datePublished: '2016-03-20T18:12:25.841Z'
-dateModified: '2016-03-20T18:12:09.372Z'
+datePublished: '2016-03-20T18:24:18.646Z'
+dateModified: '2016-03-20T18:24:05.551Z'
 title: Can Digital Receipts Save The Planet?
 author: []
+sourcePath: _posts/2016-03-20-can-digital-receipts-save-the-planet.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-can-digital-receipts-save-the-planet.md
-published: true
 url: can-digital-receipts-save-the-planet/index.html
 _type: Article
 
@@ -34,21 +34,21 @@ Digital receipts, on the other hand, can be stored virtually and easily retrieve
 
 Beyond the obvious advantages for consumers (and the planet), digital receipts provide some real benefits for retailers:
 
-1. Joining up the channels
+**1\. Joining up the channels**
 
 One of the oddities about this multichannel world is that we (as retailers) tend to know a whole lot more about people who shop with us online than we do about customers who actually walk into our physical stores. Digital receipts mean that you can close this gap. Match the email address from an in-store customer with one registered on your website, and suddenly you know a whole lot more about that customer's shopping habits.
 
-1. Lots of lovely customer data
+**2\. Lots of lovely customer data**
 
 Suddenly you have a lot more data about your customer's shopping habits; about when and where she shops and what she buys, whether it's in store or online. You can use these customer profiles to create a loyalty scheme by which you can reward frequent customers, drive footfall and personalise marketing content.
 
-1. Marketing opportunities
+**3\. Marketing Opportunities**
 
 Your customers are far more likely to open an email containing their digital receipt than any other email you send them, so why not use some of that space for some additional marketing? Experian's Email Benchmark Report back in 2014 showed that digital receipts see open rates up to 108% higher than for email newsletters, and that up-sell and cross-sell within those emails can increase CTRs by as much as 600%. Argos saw open rates of more than 70% when they implemented digital receipts last year.
 
 Above and beyond the possibilities of email marketing, having a joined up view of what your customers are purchasing, via any channel, has real potential for personalised product recommendations.
 
-1. In-store returns
+**4\. In-store Returns**
 
 Digital receipts can enhance the in-store experience by making the returns process more convenient, which will also help free up time for your staff in store.
 
